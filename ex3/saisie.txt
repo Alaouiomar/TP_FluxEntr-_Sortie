@@ -1,0 +1,12 @@
+Nom n°0: ALAOUI
+Prenom : OMAR
+Date de naissance : 07/09/1998
+Nom n°1: ALI
+Prenom : RACHIDI
+Date de naissance : 27/10/2008
+Nom n°2: SIMO
+Prenom : ALAOUI
+Date de naissance : 11/01/1996
+Nom n°3: ALAOUI
+Prenom : OMAR
+Date de naissance : 12/02/1997
